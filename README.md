@@ -1,4 +1,4 @@
-# deepti-bio
+## About me:
 👋 Hi, I’m Deepti Vijay Khandagale. You can call me **Deepti**   
 👀 I’m interested in Data & Business Analytics, Machine Learning and Data Visualization.    
 🌱 I have comnpleted MS in Data Analytics from George Mason University (Go Patriots!)    
