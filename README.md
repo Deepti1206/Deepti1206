@@ -1,12 +1,26 @@
-## About me:
-👋 Hi, I’m Deepti Vijay Khandagale. You can call me **Deepti**   
-👀 I’m interested in Data & Business Analytics, Machine Learning and Data Visualization.    
-🌱 I have comnpleted MS in Data Analytics from George Mason University (Go Patriots!)    
-💞️ I’m looking for an opportunity in Data and Business Analyst roles.   
-📫 How to reach me Gmail: khandagale.dipti12@gmail.com  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepti
+==============================================================================================================================
 
-Explore more work on:
+Aspiring Data Analyst
+---------------------
 
-[Tableau](https://public.tableau.com/app/profile/deepti.vijay.khandagale/vizzes)   
-[My Website](https://khandagaledipti12.wixsite.com/deeptikhandagale)   
-[LinkedIn](https://www.linkedin.com/in/deepti-vijay-khandagale-47095912b/)
+3 years of professional experience in data and business analysis | MS in Data Analytics | MBA in Marketing | Proficient in SQL, R, Python, BI tools, Tableau & ETL pipelines.
+
+* 🌍  I'm based in Virginia
+* 🖥️  See my portfolio at [My Portfolio](http://khandagaledipti12.wixsite.com/deeptikhandagale)
+* ✉️  You can contact me at [khandagale.dipti12@gmail.com](mailto:khandagale.dipti12@gmail.com)
+* 🚀  I'm currently working on [FAA project to reduce Wildlife-Aircraft strike](http://public.tableau.com/app/profile/deepti.vijay.khandagale/viz/EDAofWildlifeStrikeData/Dashboard1)
+* 🧠  I'm learning Advanced SQL, AWS, GCP, Redshift
+* 🤝  I'm open to collaborating on Data Analytics project
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/deepti-vijay-khandagale-47095912b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
