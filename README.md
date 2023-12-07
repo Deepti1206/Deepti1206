@@ -9,7 +9,7 @@ Aspiring Data Analyst
 * 🌍  I'm based in Virginia
 * 🖥️  See my portfolio at [My Portfolio](http://khandagaledipti12.wixsite.com/deeptikhandagale)
 * ✉️  You can contact me at [khandagale.dipti12@gmail.com](mailto:khandagale.dipti12@gmail.com)
-* 🚀  I'm currently working on [FAA project to reduce Wildlife-Aircraft strike](http://public.tableau.com/app/profile/deepti.vijay.khandagale/viz/EDAofWildlifeStrikeData/Dashboard1)
+* 🚀  I'm currently working on [FAA data analysis project to reduce Wildlife-Aircraft strike](http://public.tableau.com/app/profile/deepti.vijay.khandagale/viz/EDAofWildlifeStrikeData/Dashboard1)
 * 🧠  I'm learning Advanced SQL, AWS, GCP, Redshift
 * 🤝  I'm open to collaborating on Data Analytics project
 
