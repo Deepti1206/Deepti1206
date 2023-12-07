@@ -8,4 +8,5 @@
 Explore more work on:
 
 [Tableau](https://public.tableau.com/app/profile/deepti.vijay.khandagale/vizzes)   
-[My Website](https://khandagaledipti12.wixsite.com/deeptikhandagale)
+[My Website](https://khandagaledipti12.wixsite.com/deeptikhandagale)   
+[LinkedIn](https://www.linkedin.com/in/deepti-vijay-khandagale-47095912b/)
