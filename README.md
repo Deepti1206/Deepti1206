@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst
 ---------------------
 
-I have 3 years of professional experience in data and business analysis | I have completed my MS in Data Analytics & MBA in Marketing | I am proficient in SQL, R, Python, BI tools, Tableau & ETL pipelines.
+I have 3 years of professional experience in data and business analysis in Financial services | I have completed my MS in Data Analytics & MBA in Marketing | I am proficient in SQL, R, Python, BI tools, Tableau & ETL pipelines.
 
 * 🌍  I'm based in Virginia
 * 🖥️  See my portfolio at [My Portfolio](http://khandagaledipti12.wixsite.com/deeptikhandagale)
