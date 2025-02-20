@@ -9,7 +9,7 @@ I have 5 years of professional experience in data and business analysis | I have
 * 🌍  I'm based in Virginia
 * 🖥️  See my portfolio at [My Portfolio](http://khandagaledipti12.wixsite.com/deeptikhandagale)
 * ✉️  You can contact me at [khandagale.dipti12@gmail.com](mailto:khandagale.dipti12@gmail.com)
-* 🚀  I'm currently helping product team for state-level decisioning at GEICO
+* 🚀  I'm currently helping product team with state-level insights at GEICO
 * 🧠  I'm learning Advanced SQL, AWS, GCP, Alteryx
 * 🤝  I'm open to collaborating on Data Analytics project
 
